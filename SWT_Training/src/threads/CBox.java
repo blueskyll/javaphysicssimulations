@@ -8,6 +8,10 @@ import java.util.concurrent.*;
 import java.util.*;
 
 public class CBox extends Canvas implements Runnable {
+    private static Random rand = new Random();
+    private int pause;
+    private RGB cColor = newColor();
+    
     class CBoxPaintListener implements PaintListener {
 	public void paintControl(PaintEvent e) {
 	    Color color = new Color(e.display, cColor);
@@ -18,14 +22,9 @@ public class CBox extends Canvas implements Runnable {
 	}
     }
 
-    private static Random rand = new Random();
-
     private static RGB newColor() {
 	return new RGB(rand.nextInt(255), rand.nextInt(255), rand.nextInt(255));
     }
-
-    private int pause;
-    private RGB cColor = newColor();
 
     public CBox(Composite parent, int pause) {
 	super(parent, SWT.NONE);
