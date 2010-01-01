@@ -1,4 +1,4 @@
-package excercise001;
+package example001;
 
 import org.eclipse.swt.*;
 import org.eclipse.swt.graphics.*;

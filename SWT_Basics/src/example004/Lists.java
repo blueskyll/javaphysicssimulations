@@ -1,4 +1,4 @@
-package excercise004;
+package example004;
 
 import org.eclipse.swt.*;
 import org.eclipse.swt.widgets.*;
