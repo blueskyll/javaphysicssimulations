@@ -14,7 +14,7 @@ public class MouseMoveAndTrack {
 	Shell shell = new Shell(display);
 
 	shell.setSize(500, 500);
-	shell.setText("Key Listener");
+	shell.setText("Mouse Move and Mouse Track Listeners");
 
 	final Canvas canvas = new Canvas(shell, SWT.BORDER);
 	canvas.setBounds(10, 10, 100, 100);
