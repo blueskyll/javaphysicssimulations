@@ -9,7 +9,7 @@ public class Combos {
 	Shell shell = new Shell(display);
 
 	shell.setSize(500, 500);
-	shell.setText("Etykiety");
+	shell.setText("Zbiory elementów");
 
 	Combo combo1 = new Combo(shell, SWT.DROP_DOWN | SWT.READ_ONLY);
 	combo1.setItems(new String[] { "One", "Two", "Three" });

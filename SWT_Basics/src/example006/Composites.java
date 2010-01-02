@@ -10,7 +10,7 @@ public class Composites {
 	Shell shell = new Shell(display);
 
 	shell.setSize(500, 500);
-	shell.setText("Etykiety");
+	shell.setText("Zbiory (panele)");
 
 	Composite composite1 = new Composite(shell, SWT.BORDER);
 	composite1.setBounds(10, 10, 270, 250);

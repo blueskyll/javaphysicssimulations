@@ -10,7 +10,7 @@ public class Buttons {
 	Shell shell = new Shell(display);
 
 	shell.setSize(500, 500);
-	shell.setText("Etykiety");
+	shell.setText("Przyciski");
 
 	Button button1 = new Button(shell, SWT.PUSH);
 	button1.setText("Click me");

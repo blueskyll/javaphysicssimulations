@@ -10,7 +10,7 @@ public class Lists {
 	Shell shell = new Shell(display);
 
 	shell.setSize(500, 500);
-	shell.setText("Etykiety");
+	shell.setText("Listy wyboru");
 
 	List list1 = new List(shell, SWT.MULTI | SWT.H_SCROLL);
 	list1.setItems(new String[] { "Strawberry", "Banana", "Apple" });

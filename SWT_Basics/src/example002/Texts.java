@@ -9,7 +9,7 @@ public class Texts {
 	Shell shell = new Shell(display);
 	
 	shell.setSize(500, 500);
-	shell.setText("Etykiety");
+	shell.setText("Pola tekstowe");
 	
 	Text text1 = new Text(shell, SWT.BORDER);
 	text1.setText("Type something in here");
