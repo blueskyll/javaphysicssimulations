@@ -1,4 +1,4 @@
-package basicwidgetsproject;
+package example013.BasicWidgetsProject;
 
 import org.eclipse.swt.*;
 import org.eclipse.swt.widgets.*;

@@ -1,4 +1,4 @@
-package example008;
+package example008.KeyListeners;
 
 import org.eclipse.swt.*;
 import org.eclipse.swt.events.*;

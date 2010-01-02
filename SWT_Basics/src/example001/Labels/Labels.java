@@ -1,4 +1,4 @@
-package example001;
+package example001.Labels;
 
 import org.eclipse.swt.*;
 import org.eclipse.swt.graphics.*;

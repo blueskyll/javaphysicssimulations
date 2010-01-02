@@ -1,4 +1,4 @@
-package example009;
+package example009.MouseListeners;
 
 import org.eclipse.swt.events.*;
 

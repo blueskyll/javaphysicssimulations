@@ -1,4 +1,4 @@
-package example012;
+package example012.FocusListeners;
 
 import org.eclipse.swt.*;
 import org.eclipse.swt.events.*;

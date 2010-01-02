@@ -1,4 +1,4 @@
-package example002;
+package example002.Texts;
 
 import org.eclipse.swt.*;
 import org.eclipse.swt.widgets.*;

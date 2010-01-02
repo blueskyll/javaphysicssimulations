@@ -1,4 +1,4 @@
-package example004;
+package example004.Lists;
 
 import org.eclipse.swt.*;
 import org.eclipse.swt.widgets.*;

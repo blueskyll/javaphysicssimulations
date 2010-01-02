@@ -1,4 +1,4 @@
-package example011;
+package example011.TextListeners;
 
 import org.eclipse.swt.*;
 import org.eclipse.swt.events.*;

@@ -1,4 +1,4 @@
-package example010;
+package example010.MouseMoveAndTrack;
 
 import org.eclipse.swt.*;
 import org.eclipse.swt.events.*;

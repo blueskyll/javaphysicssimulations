@@ -1,4 +1,4 @@
-package example006;
+package example006.Composites;
 
 import org.eclipse.swt.*;
 import org.eclipse.swt.graphics.*;

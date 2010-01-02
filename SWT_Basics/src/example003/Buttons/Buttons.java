@@ -1,4 +1,4 @@
-package example003;
+package example003.Buttons;
 
 import org.eclipse.swt.*;
 import org.eclipse.swt.widgets.*;

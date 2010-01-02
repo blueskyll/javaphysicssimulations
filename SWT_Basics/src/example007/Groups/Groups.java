@@ -1,4 +1,4 @@
-package example007;
+package example007.Groups;
 
 import org.eclipse.swt.*;
 import org.eclipse.swt.graphics.*;

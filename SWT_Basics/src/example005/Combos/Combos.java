@@ -1,4 +1,4 @@
-package example005;
+package example005.Combos;
 
 import org.eclipse.swt.*;
 import org.eclipse.swt.widgets.*;
