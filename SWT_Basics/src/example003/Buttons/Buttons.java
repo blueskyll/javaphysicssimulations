@@ -23,6 +23,8 @@ public class Buttons {
 	});
 	
 	Button button2 = new Button(shell, SWT.FLAT | SWT.TOGGLE);
+	button2.setText("Enabled");
+	button2.setEnabled(false);
 	button2.setSize(50, 50);
 	button2.setLocation(0, 150);
 	
